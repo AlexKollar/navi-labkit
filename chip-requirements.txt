@@ -1,0 +1,4 @@
+# navi-labkit has no Python package requirements: it is standard-library
+# only, by design. Host tools it drives when present (never installed by
+# the chip): VirtualBox (VBoxManage), Docker + Compose v2, git, curl or
+# wget, and the system ssh client for remote lab hosts.
